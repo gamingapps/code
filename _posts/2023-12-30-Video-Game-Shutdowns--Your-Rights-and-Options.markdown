@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video Game Shutdowns: Your Rights and Options"
-date:   2024-01-12 02:48:57 +0000
+date:   2023-12-29 02:48:57 +0000
 categories: News
 excerpt_image: https://www.getdroidtips.com/wp-content/uploads/2021/05/shutdown-ps5.jpg
 ---
@@ -19,7 +19,7 @@ When you sign up and play an online game, you agree to lengthy terms of service 
 
 Even if you feel you have a case, the terms of service for most major games require players to use alternative dispute resolution like arbitration or mediation rather than suing in court. This means presenting your case to a neutral third party instead of a judge. While resolution through these methods is usually faster and cheaper than a lawsuit, it also limits your ability to gather evidence through formal discovery processes. Mediation specifically seeks a negotiated solution all parties can agree to.
 
-## ### Seeking Refunds for Purchased In-Game Content 
+## ### Seeking Refunds for Purchased In-Game Content
 
 If an online shutdown leaves you unable to access downloadable content or character customizations you paid real money for, requesting a prorated refund is reasonable. However, companies are not obligated to offer refunds according to their terms. Your best option is to file a complaint with your credit card company or payment provider to dispute charges if the company refuses reimbursement. You may have more luck if the shutdown occurs very soon after a purchase versus years later. Documentation of all transactions will strengthen your case.
 
@@ -31,7 +31,7 @@ Agencies like the Better Business Bureau and the Federal Trade Commission in the
 
 If the value of digital purchases or lost progress on your account substantially exceeds the limits for small claims court in your jurisdiction, this may be an option worth exploring. The process is less formal than a traditional lawsuit, you do not need an attorney, and filing fees tend to be lower. However, you would still have to prove damages directly caused by the shutdown that went beyond what could reasonably be expected based on terms of service. Your evidence would need to convince a judge, not just get sympathy. This path also risks creating poor will between players and the company.
 
-## ### Documenting Your Case and Gathering Evidence 
+## ### Documenting Your Case and Gathering Evidence
 
 Any potential legal action requires thorough documentation of all relevant events with time-stamped screenshots, video footage, or written correspondence from customer support. This includes when games and specific content were purchased, statements from the company about lifespan and ownership, and how the shutdown affected access. Gathering testimony from other impacted players showing a broader problem can strengthen your position versus an isolated complaint. Organize materials chronologically and backup all files. This evidence forms the foundation of proving you have a legitimate case.
 
