@@ -1,2 +1,2 @@
 # code
-[gamingapps/code](gamingapps.github.io/code/)
+[gamingapps/code](http://gamingapps.github.io/code/)
