@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allegations of Rigging in Netflix's "Squid Game: The Challenge" Reality Show"
+title: "Allegations of Rigging in Netflix's \"Squid Game: The Challenge\" Reality Show"
 date:   2024-03-06 12:59:50 +0000
 categories: News
 excerpt_image: https://static1.srcdn.com/wordpress/wp-content/uploads/2022/10/Squid-Game-(2021-).JPG
