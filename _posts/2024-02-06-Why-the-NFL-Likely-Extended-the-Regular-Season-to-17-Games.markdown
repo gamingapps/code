@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Why the NFL Likely Extended the Regular Season to 17 Games"
+date:   2024-02-06 13:43:25 +0000
+categories: News
+excerpt_image: https://operations.nfl.com/media/5279/2021-nfl-season-17th-game-matchups-1.png?mode=max&amp;width=995
+---
+### More Money for All
+The NFL's move to extend the regular season from 16 to 17 games starting in 2022 was largely seen as a money grab by the league looking to maximize revenue. Each additional regular season game represents new inventory for TV networks like Fox, CBS, NBC and ESPN to buy as part of their broadcast rights deals. With a longer season, there are more ad slots and commercial time available during games, which directly translates to higher broadcast rights fees paid by the networks to the NFL. Industry analysts have estimated the extended season could be worth over $1 billion annually in added revenue shared between NFL owners. 
+
+
+![](https://operations.nfl.com/media/5279/2021-nfl-season-17th-game-matchups-1.png?mode=max&amp;width=995)
+### Safety Concerns Addressed
+While the NFL Players Association (NFLPA) initially resisted the 17 game plan due to concerns over player health and safety, they ultimately accepted it as part of negotiations for a new collective bargaining agreement (CBA). Under the new CBA signed in 2020, player compensation increased significantly with a larger share of total league revenue going to salaries, bonuses and benefits. The union also negotiated enhanced medical benefits and rights that will better protect athletes over the long-term from injuries sustained on the field. Still, an additional game does expose players to increased risk of soft tissue injuries from additional contact and wear-and-tear over the course of a longer season.
+
+### Impact on Competition
+Going to an 17-game schedule creates some inconsistencies that could impact the competitive balance of the league. Not all teams will play the same number of home games, as some will have 9 at their stadium while others just 8. This schedule imbalance may give certain franchises an advantage down the playoff stretch. Strength of schedule may also vary significantly where one team's 17th opponent finished last in their division compared to another team facing a playoff caliber club. These factors could influence postseason seeds and division championships near the end of the season. 
+
+### Exciting for Fans
+While concerns over player safety and competitive imbalance are valid considerations, the extra week of NFL games is a boon for fans. More action spreads out the NFL viewing experience over a longer period and brings added excitement for fantasy football players and sports bettors. With one more set of games to track player stats and perform, fantasy managers have an increased period to assess their rosters and make lineup decisions. Likewise, the additional week presents extra opportunities for gambling on outcomes that many fans enjoy. Quality matchups mixed with elimination games should keep most of the 17th week compelling despite potential for teams resting starters.
+
+### Impact on Fan Experience
+At the same time, some are concerned the 17th week may lose its luster if playoff spots have already been secured by certain teams. With less on the line for those clubs, coaches could opt to rest starters in order to keep key players healthy for the postseason. This strategic decision could water down the competitiveness and intrigue of a small handful of games. However, for clubs still battling for playoff berths or seeding, the intensity should remain high. And new single-game betting options likeDraftKings and FanDuel have made even seemingly "meaningless" matchups entertaining for bettors. 
+
+### Longevity Questions Remain 
+Over the long haul, lingering questions remain about how sustainable an expanded 17-game schedule proves to be. Foremost, will injury rates among players significantly rise with the bigger workload, diminishing quality of on-field product? If soft tissue injuries do spike, will medical advancements and wellness programs adequately keep athletes healthy? Additionally, will roster sizes need to modestly grow alongside one more game to avoid thinning rosters with so many active players sidelined from the increased physical toll? Ensuring long-term player safety and preserving talent depth on teams stays paramount as the NFL establishes the viability of its new format.
+
+### Revenue Drove the Decision
+Ultimately, the motivation to add a 17th regular season game stems from the NFL's desire to further monetize its success. As a multi-billion dollar business, the additional inventory provides substantial streaming and cable networks along with higher broadcast rights fees funds. Selling an extra week's worth of ad slots represented too lucrative an opportunity for owners to pass up, outweighing other factors. While healthy skepticism toward potential downsides exists, maximizing profit from games and players as valuable assets guided the NFL's decision to extend the regular season starting in 2022. Increased revenues can then be distributed throughout the league in a rising tide that potentially benefits all parties over the long haul.
+
+### Impact on Fantasy Football and Gambling Remains Positive  
+
+The additional week of NFL games is an overall positive for fantasy football and sports betting enthusiasts. Managers of fantasy squads have one further period to evaluate their players' statistical output, matchup strengths/weaknesses, and make critical lineup decisions that can make or break a season. With larger rosters and substitution flexibility week-to-week, the extra period provides more data points to optimize squads over the 17-game stretch run. Daily fantasy sites like DraftKings and FanDuel also welcome one more week of slates given the extra player props and outcomes to wager on. While a few games could see starters rested if playoff spots are set, most contests figure to hold intrigue right up to Week 17's conclusion. The prolonged campaign extends the excitement of fantasy football and gambling another full week.
+
+### Fair Scheduling Challenges Arise 
+
+Implementing a fair yet balanced schedule framework across all 32 NFL clubs with an odd number of regular season games presents notable challenges. Most evidently, some teams will necessarily have nine home contests while others only eight due to the rotational nature of the slate. This uneven in-stadium experience could theoretically sway close division races or wild card tiebreakers later in the year. Additionally, the strength of schedule will fluctuate more dramatically with certain teams drawing what projects to be weaker 17th opponents compared to those stuck facing elite playoff contenders. Competition committees will need to closely evaluate data and tweak formulas over time to optimize parity, competitiveness and fairness to the maximum extent possible given the new 17-game construct. Equitable scheduling will be an ongoing process rather than perfect solution.
+
+### Quality Concerns from Larger Workloads
+
+While proponents argue spreading games over an extra week allows managing player reps more judiciously, concerns remain the increased physical toll may diminish quality of play in the long run. Specifically, more opportunities for soft tissue injuries like pulls, tears and strains exist with heightened contact frequency. The natural question arises whether training and medical support structures can adequately keep pace with rising injury risks from bigger total workloads. Rosters may need modest boosts to account for lengthened injury lists throughout the extended season as well. Ensuring deep talent pools for teams remains essential for upholding entertainment value. Overall effectiveness of wellness programs and safeguarding long-term athlete health stays paramount in the NFL's evolving landscape.
+
+### Revenue Growth Outweighed Other Downsides
+
+In the end, prioritizing added revenue sources proved the overriding factor in the NFL's decision to advance to a 17-game schedule. While other considerations around competitive balance, player safety, fan experience and on-field quality sparked legitimate dialogue, maximizing profit potential outweighed perceived risks. As a shrewd business, the league simply could not pass up over $1 billion annually estimated from selling the additional inventory to the broadcasting consortium. This money then flows through the system, creating opportunities to compromise on player compensation, benefits and even roster sizes. Revenue growth remains the NFL's chief focus regardless of model tweaks, showcasing its skilled monetization of America's most popular sport.
+
+So in summary, profit motives drove expanding the regular season length despite some uncertainties. However, early returns indicate the new format maintains fan enthusiasm while benefiting all parties financially through expanded revenue pools. Ongoing diligence around health, scheduling parity and preserving entertainment value remains key to the plan's long-term sustainability. But for now, the added week of NFL games seems a successful value add enjoyed by viewers, bettors, fantasy players and the league alike. Increased profits get distributed throughout, growing the entire professional football ecosystem to renewed heights.
